@@ -1,0 +1,16 @@
+Part Value   Device                                                      
+BTN1 Program DTS-3                                                                                                                
+C1   0.1uf   Capacitor                                                                                                
+C2   1uf     Capacitor                                                                                           
+C3   10uf    Capacitor                                                                                             
+C4   0.1uf   Capacitor                                                                                         
+C5   0.1uf   Capacitor                                                                                            
+CN4  FTDI    PINHD-1X6                                                                                                   
+LED2 LED     DISP_SEGMENT_4DIGIT                                                                                             
+MDL1 12E     ESP8266-ESP12E     	                              
+R1   10k     Resistor                                                                     
+R2   10k     Resistor                                                         
+R3   10k     Resistor                                                                                                                           
+U1   REG1117 SOT223 3.3V Regulator                      
+U2   SOP28   HT16K33_SOP28                                                                                                
+X1   USB     MINI USB-B R/A DIP 5pol                                
